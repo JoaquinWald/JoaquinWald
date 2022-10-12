@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaquinWald
-- 👀 I’m interested in frontend web developer.
+- 👨‍💻 I’m interested in frontend web developer.
 - 🌱 I’m currently learning as much as I can about the technologies required.
 
 <!---
