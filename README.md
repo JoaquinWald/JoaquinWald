@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaquinWald
-- 👨‍💻 I’m a Software Engineer - #HTML #CSS #JavaScript #React 
+- 👨‍💻 I’m a Frontend Developer - #HTML #CSS #JavaScript #React 
 
 <!---
 JoaquinWald/JoaquinWald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
