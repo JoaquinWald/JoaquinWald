@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoaquinWald
+- 👋 Hi, I’m Joaquín Grunwald
 - 👨‍💻 I’m a Frontend Developer - #HTML #CSS #JavaScript #React #Tailwind #Git #GitHub #Redux
 
 <!---
